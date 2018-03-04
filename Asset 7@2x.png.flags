@@ -1,0 +1,4 @@
+gen_mipmaps=false
+repeat=true
+anisotropic=true
+mirroredrepeat=true
